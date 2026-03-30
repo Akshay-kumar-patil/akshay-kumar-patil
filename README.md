@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kumar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-kumar-patil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshay-kumar-patil" alt="akshay-kumar-patil" /></a> </p>
-
 - 🔭 I’m currently working on [Building an AI-driven Career Platform using LLMs and RAG to automate resumes, optimize job matching, and provide intelligent career recommendations](https://github.com/Akshay-kumar-patil/career-portal)
 
 - 🌱 I’m currently learning **Deep Learning, LLM fine-tuning, RAG pipelines, vector databases, and end-to-end AI system design,Agentic-AI**
