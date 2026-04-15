@@ -7,8 +7,7 @@
 </div>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=10%2B+Projects+Delivered;5%2B+Teams+Led;40%25+Performance+Improvements;95%25+AI+Model+Accuracy;4+Open+Source+Contributions)
+
 
 </div>
 <h3 align="center">A passionate AI/ML developer from India, building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), and automation to solve real-world problems.</h3>
