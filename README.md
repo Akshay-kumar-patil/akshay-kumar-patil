@@ -1,7 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Kumar+BardePatil;+AI/ML+Engineer+🤖;+Python backend+developer/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Barde!;+Full+Stack+Architect+🚀;+AI/ML+Engineer+🤖;+IoT+Specialist+🔌" />
 </h1>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aryanbarde80/aryanbarde80/main/assets/banner.gif" width="100%" alt="Banner"/>
+</div>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=10%2B+Projects+Delivered;5%2B+Teams+Led;40%25+Performance+Improvements;95%25+AI+Model+Accuracy;4+Open+Source+Contributions)
+
+</div>
 <h3 align="center">A passionate AI/ML developer from India, building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), and automation to solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kumar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-kumar-patil" /> </p>
