@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar Patil</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Kumar+BardePatil;+AI/ML+Engineer+🤖;+Python backend+developer/>
+</h1>
+
 <h3 align="center">A passionate AI/ML developer from India, building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), and automation to solve real-world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kumar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-kumar-patil" /> </p>
