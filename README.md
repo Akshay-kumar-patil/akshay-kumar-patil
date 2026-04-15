@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Barde!;+Full+Stack+Architect+🚀;+AI/ML+Engineer+🤖;+IoT+Specialist+🔌" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Kumar+Patil!;+AI/ML+Engineer+🤖;+Python+Backend+Developer" />
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryanbarde80/aryanbarde80/main/assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Akshay-Kumar-patil/Akshay-kumar-patil/main/assets/banner.gif" width="100%" alt="Banner"/>
 </div>
 
 <div align="center">
