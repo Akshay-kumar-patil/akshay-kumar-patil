@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-kumar-patil&show_icons=true&locale=en&layout=compact" alt="akshay-kumar-patil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-kumar-patil&show_icons=true&locale=en" alt="akshay-kumar-patil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-patil&" alt="akshay-kumar-patil" /></p>
