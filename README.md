@@ -32,7 +32,7 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 <a href="https://leetcode.com/u/akshay_patil_01/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" style="background:white; border-radius:8px; padding:5px;"/>
 </a>
 </p>
 
@@ -40,7 +40,7 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 
 ### ⚡ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,flask,mongodb,mysql,git,tensorflow,pytorch,opencv&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,flask,fastapi,mongodb,mysql,git,tensorflow,pytorch,opencv&perline=7" />
 </p>
 
 <p align="center">
