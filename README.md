@@ -1,34 +1,90 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Kumar+Patil!;+AI/ML+Engineer+🤖;+Python+Backend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Akshay+Kumar+Patil!;AI/ML+Engineer+🤖;Python+Backend+Developer" />
 </h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akshay-Kumar-patil/Akshay-kumar-patil/main/assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="https://raw.githubusercontent.com/Akshay-Kumar-patil/Akshay-kumar-patil/main/assets/banner.gif" width="100%" />
 </div>
 
-<div align="center">
+---
 
+<h3 align="center">
+🚀 AI/ML Developer | LLMs • RAG • Automation • Backend Systems
+</h3>
 
-</div>
-<h3 align="center">A passionate AI/ML developer from India, building intelligent applications using LLMs, Retrieval-Augmented Generation (RAG), and automation to solve real-world problems.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay-kumar-patil&label=Profile%20views&color=0e75b6&style=flat" alt="akshay-kumar-patil" /> </p>
-
-- 🔭 I’m currently working on [Building an AI-driven Career Platform using LLMs and RAG to automate resumes, optimize job matching, and provide intelligent career recommendations](https://github.com/Akshay-kumar-patil/career-portal)
-
-- 🌱 I’m currently learning **Deep Learning, LLM fine-tuning, RAG pipelines, vector databases, and end-to-end AI system design,Agentic-AI**
-
-- 📫 How to reach me **akshaykumarpatil58@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akshay-patil-akki12" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akshay-patil-akki12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akshay_patil_01/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akshay_patil_01/" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems that automate real-world workflows using AI 🚀
 </p>
 
-<h3 align="left">Languages and Tools:</h3><p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-kumar-patil&show_icons=true&locale=en&layout=compact" alt="akshay-kumar-patil" /></p>
+### 🔥 About Me
+- 🔭 Building: **AI Career Platform (LLMs + RAG + Automation)**
+- 🌱 Learning: **Deep Learning, LLM Fine-Tuning, Agentic AI**
+- 💡 Focus: **End-to-End AI Systems + Real-world Deployment**
+- 📫 Reach me: **akshaykumarpatil58@gmail.com**
 
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-patil&" alt="akshay-kumar-patil" /></p>
+### 🌐 Connect With Me
+<p align="center">
+<a href="https://linkedin.com/in/akshay-patil-akki12">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/u/akshay_patil_01/">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+</p>
+
+---
+
+### ⚡ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,flask,mongodb,mysql,git,tensorflow,pytorch,opencv&perline=7" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akshay-kumar-patil&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-patil&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-kumar-patil&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🚀 Featured Project
+🔗 **AI Career Platform (LLM + RAG + Automation)**  
+👉 https://github.com/Akshay-kumar-patil/career-portal
+
+---
+
+### 💡 What Makes Me Different
+- ⚡ Strong **DSA + System Design + AI combo**
+- 🤖 Building **real-world AI products (not just models)**
+- 🔥 Focus on **automation + scalability**
+
+---
+
+### 🧠 Currently Exploring
+- Agentic AI Systems  
+- Vector Databases (FAISS, Pinecone)  
+- LLM Optimization & Fine-tuning  
+- AI Product Engineering  
+
+---
+
+<p align="center">
+🔥 Turning ideas into intelligent systems 🔥
+</p>
