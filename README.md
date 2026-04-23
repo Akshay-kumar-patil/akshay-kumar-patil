@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Akshay+Kumar+Patil!;AI/ML+Engineer+🤖;Python+Backend+Developer" />
 </h1>
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Akshay-Kumar-patil/Akshay-kumar-patil/main/assets/banner.gif" width="100%" />
 </div>
