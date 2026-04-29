@@ -27,6 +27,25 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 
 ---
 
+## 🎯 Key Achievements Dashboard
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 Code Rankings</h3>
+        <img src="https://leetcard.jacoblin.cool/Akshay_patil_01?theme=dark&font=Karma&ext=heatmap" width="350"/>
+      </td>
+      <td align="center">
+        <h3>🏆 Trophies</h3>
+        <img src="https://github-profile-trophy.vercel.app/?username=Akshay-kumar-patil&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" width="450"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://linkedin.com/in/akshay-patil-akki12">
