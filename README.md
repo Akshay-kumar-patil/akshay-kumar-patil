@@ -76,9 +76,6 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-kumar-patil&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-kumar-patil&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 ---
 
