@@ -79,23 +79,17 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 
 ---
 
-### 🚀 Featured Project
-🔗 **AI Career Platform (LLM + RAG + Automation)**  
-👉 https://github.com/Akshay-kumar-patil/career-portal
-
----
 
 ### 💡 What Makes Me Different
-- ⚡ Strong **DSA + System Design + AI combo**
+- ⚡ Strong **DSA + AI/ML**
 - 🤖 Building **real-world AI products (not just models)**
 - 🔥 Focus on **automation + scalability**
 
 ---
 
 ### 🧠 Currently Exploring
-- Agentic AI Systems  
+- Rag / LLMs 
 - Vector Databases (FAISS, Pinecone)  
-- LLM Optimization & Fine-tuning  
 - AI Product Engineering  
 
 ---
