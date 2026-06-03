@@ -52,6 +52,9 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 <a href="https://leetcode.com/u/akshay_patil_01/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" style="background:white; border-radius:8px; padding:5px;"/>
 </a>
+<a href="https://codolio.com/profile/Akki_paaji/">
+<img src="https://raw.githubusercontent.com/Akshay-kumar-patil/akshay-kumar-patil/main/Banner-removebg-preview.png" height="40" alt="Codolio"/>
+</a>
 </p>
 
 ---
