@@ -91,6 +91,8 @@ Building intelligent systems that automate real-world workflows using AI 🚀
 <p align="center">
 🔥 Turning ideas into intelligent systems 🔥
 </p>
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" >
+  <img src="https://raw.githubusercontent.com/akshay-kumar-patil/akshay-kumar-patil/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
